@@ -13,7 +13,7 @@ int main()
  delay(1000);
  printf("\ngreet someone special");
  delay(1000);
- printf("\nand make him/her her laugh:)");
+ printf("\nand make him/her her smile:)");
 
 //heart of 4 letters
 printf("\n");
