@@ -74,7 +74,7 @@ for(i=1;i<450;i++)
 
  moveto(250,200);
  setcolor(GREEN);
- outtext("HAPPY BIRTHDAY");
+ outtext("happy birthday");
 
 }
  printf("\t\t  THAT'S ALL!! \t\t");
